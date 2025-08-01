@@ -1,0 +1,22 @@
+{
+    "com.microsoft.skydrive": {
+        "name": "OneDrive",
+        "category": "bloatware",
+        "recommended": true
+    },
+    "com.facebook.appmanager": {
+        "name": "Facebook AppManager",
+        "category": "bloatware",
+        "recommended": true
+    },
+    "com.facebook.services": {
+        "name": "Facebook Servi",
+        "category": "bloatware",
+        "recommended": true
+    },
+    "com.facebook.system": {
+        "name": "Facebook System",
+        "category": "bloatware",
+        "recommended": true
+    }
+}

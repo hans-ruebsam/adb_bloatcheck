@@ -22,11 +22,6 @@ build/
 dist/
 *.egg-info/
 
-# Exportierte Dateien
-*.csv
-*.json
-*.md
-
 # Debloat-Listen (optional, falls du diese regelmäßig neu lädst)
 debloat_lists/
 
