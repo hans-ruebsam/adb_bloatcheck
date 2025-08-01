@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches & logs
+*.log
+*.bak
+*.tmp
+*.swp
+
+# VS Code settings
+.vscode/
+
+# Python virtual environments
+env/
+.venv*/
+venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Exportierte Dateien
+*.csv
+*.json
+*.md
+
+# Debloat-Listen (optional, falls du diese regelmäßig neu lädst)
+debloat_lists/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# dotenv / config (falls genutzt)
+.env
+
+# others
+out.md
